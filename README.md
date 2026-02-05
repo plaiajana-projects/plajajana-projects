@@ -23,7 +23,7 @@ My work bridges research, technology, and digital execution — helping organiza
 
 ## Portfolio Hub
 
-👉 [Market Research & Analytics Portfolio](https://github.com/plajajana-projects/market-research-portfolio)
+👉 [Market Research & Analytics Portfolio](https://github.com/plaiajana-projects/market-research-portfolio)
 
 (Website portfolio available inside the repository)
 
