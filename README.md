@@ -25,11 +25,11 @@ My work bridges research, technology, and digital execution — helping organiza
 
 ### Research & Analytics Portfolio
 
-👉 [Market Research Portfolio](https://github.com/plajajana-projects/market-research-portfolio)
+👉 [https://github.com/plajajana-projects/market-research-portfolio](https://github.com/plajajana-projects/market-research-portfolio)
 
 ### Professional Website Portfolio
 
-👉 [Website Projects](https://github.com/plajajana-projects/market-research-portfolio/blob/main/websites-portfolio.md)
+👉 [https://github.com/plajajana-projects/market-research-portfolio/blob/main/websites-portfolio.md](https://github.com/plajajana-projects/market-research-portfolio/blob/main/websites-portfolio.md)
 
 ---
 
